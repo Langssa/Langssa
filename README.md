@@ -1,6 +1,6 @@
 ## Hi! I'm Seungbin
 
-### *TECH STACK*<br>
+### *Tech Stack*<br>
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/> 
@@ -23,7 +23,7 @@
 ##### Outline
 * 해외 공연/관광지 일정 사전 검색 및 항공편을 동일 사이트에서 확인 가능하여 일정 관리를 수월하게 할 수 있게 하기 위함. 
 
-##### 공헌한 내용
+##### Use Tech
 * 프론트엔드: HTML, CSS, BootStrap, JavaScript
 * 백엔드: JAVA, Servlet, MyBatis, OAUTH2, Spring Boot
 * DB액션 처리: JDBC, MySQL, POSTMAN
