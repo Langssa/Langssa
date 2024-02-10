@@ -1,6 +1,6 @@
 ## Hi! I'm Seungbin
 
-### *Tech Stack*<br>
+### **Tech Stack*<br>
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/> 
@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/visual studio code-5C2D91?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 <br>
 
-### *Portfolio*
+### **Portfolio*
 #### Project 1)  [해외여행일정관리 (바로가기)](https://github.com/Langssa/schedule.git)
 
 ##### Outline
