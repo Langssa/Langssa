@@ -1,4 +1,4 @@
-## Hi! I'm Seungbin
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=300&section=header&text=Hi!%20I'm%20Seungbin&render&animation=fadeIn&fontSize=90" />
 
 ### **Tech Stack*
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -38,4 +38,5 @@
 <br>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Langssa&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Langssa&show_icons=true&theme=radical)<br><br>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=20&section=header&render&animation=fadeIn" />
