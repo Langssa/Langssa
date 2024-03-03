@@ -26,8 +26,8 @@
 
 ### **Portfolio*
 #### Project 1)  [해외여행일정관리 (바로가기)](https://github.com/Langssa/schedule.git)
-#### Project 2)  [식당예약관리 프론트(바로가기)] (https://github.com/Langssa/Eatable_App_Frontend.git)
-#### [식당예약관리 백엔드(바로가기)] (https://github.com/Langssa/EatTable_Backend.git)
+#### Project 2)  [식당예약관리 프론트(바로가기)](https://github.com/Langssa/Eatable_App_Frontend.git)
+#### [식당예약관리 백엔드(바로가기)](https://github.com/Langssa/EatTable_Backend.git)
 
 ##### Outline
 * 해외 공연/관광지 일정 사전 검색 및 항공편을 동일 사이트에서 확인 가능하여 일정 관리를 수월하게 할 수 있게 하기 위함. 
